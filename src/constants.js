@@ -1,0 +1,1 @@
+export const ENDPOINT_URL="https://catfact.ninja/fact?max_length=50";
